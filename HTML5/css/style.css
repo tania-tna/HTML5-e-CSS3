@@ -1,0 +1,33 @@
+body {
+    background:#CD5C5C;
+    margin-left: 200px;
+    margin-right: 300px;
+
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+color:rebeccapurple;
+font-family: fantasy;
+}
+
+h2 {
+    font-style: italic;
+}
+
+p {
+    font-size:20px ;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+
+}
+
+.logo {
+    width: 30px;
+}
